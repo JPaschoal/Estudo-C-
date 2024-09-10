@@ -1,0 +1,14 @@
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\bin\Debug\net8.0\StringOkimoto.exe
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\bin\Debug\net8.0\StringOkimoto.deps.json
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\bin\Debug\net8.0\StringOkimoto.runtimeconfig.json
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\bin\Debug\net8.0\StringOkimoto.dll
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\bin\Debug\net8.0\StringOkimoto.pdb
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\StringOkimoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\StringOkimoto.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\StringOkimoto.AssemblyInfo.cs
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\StringOkimoto.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\StringOkimoto.dll
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\refint\StringOkimoto.dll
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\StringOkimoto.pdb
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\StringOkimoto.genruntimeconfig.cache
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\ref\StringOkimoto.dll
