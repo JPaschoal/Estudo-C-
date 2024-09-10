@@ -1,5 +1,5 @@
 ﻿//1
-using StringOkimoto;
+using ÈxercicioString;
 
 string str = "ABCTPX";
 

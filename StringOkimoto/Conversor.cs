@@ -1,4 +1,4 @@
-﻿namespace StringOkimoto
+﻿namespace ÈxercicioString
 {
     public class Conversor
     {

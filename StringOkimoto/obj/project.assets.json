@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhonatan\\source\\repos\\StringOkimoto\\StringOkimoto\\StringOkimoto.csproj",
-      "projectName": "StringOkimoto",
-      "projectPath": "C:\\Users\\Jhonatan\\source\\repos\\StringOkimoto\\StringOkimoto\\StringOkimoto.csproj",
+      "projectUniqueName": "C:\\Users\\Jhonatan\\source\\repos\\StringOkimoto\\StringOkimoto\\ExercicioString.csproj",
+      "projectName": "ExercicioString",
+      "projectPath": "C:\\Users\\Jhonatan\\source\\repos\\StringOkimoto\\StringOkimoto\\ExercicioString.csproj",
       "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jhonatan\\source\\repos\\StringOkimoto\\StringOkimoto\\obj\\",
       "projectStyle": "PackageReference",

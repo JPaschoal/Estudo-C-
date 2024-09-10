@@ -1,0 +1,15 @@
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\bin\Debug\net8.0\ExercicioString.exe
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\bin\Debug\net8.0\ExercicioString.deps.json
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\bin\Debug\net8.0\ExercicioString.runtimeconfig.json
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\bin\Debug\net8.0\ExercicioString.dll
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\bin\Debug\net8.0\ExercicioString.pdb
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\ExercicioString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\ExercicioString.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\ExercicioString.AssemblyInfo.cs
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\ExercicioString.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\ExercicioString.sourcelink.json
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\ExercicioString.dll
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\refint\ExercicioString.dll
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\ExercicioString.pdb
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\ExercicioString.genruntimeconfig.cache
+C:\Users\Jhonatan\source\repos\StringOkimoto\StringOkimoto\obj\Debug\net8.0\ref\ExercicioString.dll
